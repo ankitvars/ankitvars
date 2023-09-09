@@ -1,7 +1,7 @@
-## **[Ankit Varshney]**
+## **Ankit Varshney**
 ### Frontend Developer | Web Enthusiast
 
-👋 Hello World! I'm [Ankit Varshney], a passionate and dedicated Frontend Developer with a strong desire to create beautiful and functional web experiences. I'm excited to embark on this coding journey and contribute to the ever-evolving world of web development.
+👋 Hello World! I'm Ankit Varshney, a passionate and dedicated Frontend Developer with a strong desire to create beautiful and functional web experiences. I'm excited to embark on this coding journey and contribute to the ever-evolving world of web development.
 
 🚀 **Skills:**
 - HTML5 | CSS3 | JavaScript
@@ -22,18 +22,21 @@
 - Bachelor's in Chemical Engineering or relevant field (2022)
 
 🔗 **Connect with Me:**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ankit-varshney1/)
-- Portfolio: [Your Portfolio Website](https://ankitvars.github.io/Portfolio/)
-- Leetcode: [@YourTwitterHandle](https://)
+- LinkedIn: [Ankit Varshney](https://www.linkedin.com/in/ankit-varshney1/)
+- Portfolio: [Portfolio](https://ankitvars.github.io/Portfolio/)
+- Leetcode: [Leetcode](https://leetcode.com/ankit1802/)
 
 📚 **Currently Learning:**
-- [Mention any courses or technologies you're currently exploring.]
+- Typescript
+- React JS (Advanced)
+- Next JS
+- React Native
 
 📢 **Open for Collaboration:**
 - I'm open to collaborating on frontend projects and always eager to work with fellow developers. Feel free to reach out!
 
 📫 **Contact:**
 - Email: your.email@email.com
-- GitHub: [github.com/yourusername](https://github.com/ankitvars)
+- GitHub: [github.com/ankitvars](https://github.com/ankitvars)
 
 🌐 **Check out my latest projects below! ⬇️**
