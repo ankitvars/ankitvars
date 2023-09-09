@@ -36,7 +36,7 @@
 - I'm open to collaborating on frontend projects and always eager to work with fellow developers. Feel free to reach out!
 
 📫 **Contact:**
-- Email: your.email@email.com
+- Email: vashneyankit011@gmail.com
 - GitHub: [github.com/ankitvars](https://github.com/ankitvars)
 
 🌐 **Check out my latest projects below! ⬇️**
