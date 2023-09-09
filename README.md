@@ -19,7 +19,7 @@
 - Strong communication skills for effective collaboration.
 
 💼 **Education:**
-- Bachelor's in Chemical Engineering or relevant field (2022)
+- Bachelor's in Chemical Engineering (2022)
 
 🔗 **Connect with Me:**
 - LinkedIn: [Ankit Varshney](https://www.linkedin.com/in/ankit-varshney1/)
