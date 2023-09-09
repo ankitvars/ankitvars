@@ -1,7 +1,7 @@
-## **[Your Name]**
+## **[Ankit Varshney]**
 ### Frontend Developer | Web Enthusiast
 
-👋 Hello World! I'm [Your Name], a passionate and dedicated Frontend Developer with a strong desire to create beautiful and functional web experiences. I'm excited to embark on this coding journey and contribute to the ever-evolving world of web development.
+👋 Hello World! I'm [Ankit Varshney], a passionate and dedicated Frontend Developer with a strong desire to create beautiful and functional web experiences. I'm excited to embark on this coding journey and contribute to the ever-evolving world of web development.
 
 🚀 **Skills:**
 - HTML5 | CSS3 | JavaScript
@@ -19,12 +19,12 @@
 - Strong communication skills for effective collaboration.
 
 💼 **Education:**
-- Bachelor's in Computer Science or relevant field (Graduation Year)
+- Bachelor's in Chemical Engineering or relevant field (2022)
 
 🔗 **Connect with Me:**
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
-- Portfolio: [Your Portfolio Website](https://www.yourwebsite.com/)
-- Twitter: [@YourTwitterHandle](https://twitter.com/yourusername)
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/ankit-varshney1/)
+- Portfolio: [Your Portfolio Website](https://ankitvars.github.io/Portfolio/)
+- Leetcode: [@YourTwitterHandle](https://)
 
 📚 **Currently Learning:**
 - [Mention any courses or technologies you're currently exploring.]
@@ -34,6 +34,6 @@
 
 📫 **Contact:**
 - Email: your.email@email.com
-- GitHub: [github.com/yourusername](https://github.com/yourusername)
+- GitHub: [github.com/yourusername](https://github.com/ankitvars)
 
 🌐 **Check out my latest projects below! ⬇️**
