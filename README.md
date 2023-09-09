@@ -40,3 +40,19 @@
 - GitHub: [github.com/ankitvars](https://github.com/ankitvars)
 
 🌐 **Check out my latest projects below! ⬇️**
+## My Projects
+
+### 1. Netflix Clone
+- Description: A single-page website developed using React.js that mimics the Netflix interface.
+- GitHub Repository: [Netflix Clone Repository](https://github.com/yourusername/netflix-clone)
+- Live Demo: [Netflix Clone Demo](https://yourusername.github.io/netflix-clone)
+
+### 2. Disney+ Clone
+- Description: A Disney+ clone project built using React.js and hosted for a Disney-themed streaming experience.
+- GitHub Repository: [Disney+ Clone Repository](https://github.com/yourusername/disney-plus-clone)
+- Live Demo: [Disney+ Clone Demo](https://yourusername.github.io/disney-plus-clone)
+
+### 3. Amazon Clone
+- Description: An Amazon clone project created with React.js, featuring product listings and a shopping cart.
+- GitHub Repository: [Amazon Clone Repository](https://github.com/yourusername/amazon-clone)
+- Live Demo: [Amazon Clone Demo](https://yourusername.github.io/amazon-clone)
