@@ -59,6 +59,6 @@
 
 - 📧 **Email**: vashneyankit011@gmail.com
 
- [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitvars)
+- [![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitvars)
 
 Ready to code, innovate, and create together! 🚀🌐👨‍💻
