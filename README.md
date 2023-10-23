@@ -1,64 +1,49 @@
-# **Ankit Varshney**
-## Frontend Developer | Web Enthusiast
+### Hey there, I'm Ankit Varshney! 👋
 
-👋 Hey, I'm Ankit Varshney, and I'm all about building the web of tomorrow, today! As a Frontend Developer, I'm on a mission to create captivating web experiences that leave a lasting impression.
+**`Frontend Developer | Web Enthusiast`**
 
-🚀 **Skills:**
+🚀 On a mission to code the future and create web experiences that make you say "wow!" 💻
 
-- 💻 **HTML5 | CSS3 | JavaScript**: My creative toolkit for web wizardry.
+Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/ankit-varshney1/)
+- [Portfolio](https://ankitvars.github.io/Portfolio/)
+- [Leetcode](https://leetcode.com/ankit1802/)
 
-- 🎨 **Responsive Web Design**: Making websites dance on every screen.
+#### 🌟 What I Bring:
 
-- 🌐 **CSS Frameworks (e.g., Bootstrap)**: Powering up the web with style and structure.
+- 🔥 **Passion for Perfection**: I don't just write code; I craft elegant solutions that make users smile.
 
-- ⚛️ **Frontend Libraries (e.g., React)**: Breathing life into web apps, one component at a time.
+- 🎯 **Endless Curiosity**: I'm always exploring new technologies to stay ahead in the ever-evolving web world.
 
-- 🧲 **Version Control (e.g., Git)**: Keeping code chaos at bay.
+- 💡 **Innovative Mindset**: I thrive on turning creative ideas into functional web realities.
 
-- ♿ **Web Accessibility**: Ensuring inclusivity in every line of code.
+#### 💼 Skills:
 
-- 🌐 **Cross-browser Compatibility**: Making web perfection consistent across the browser universe.
+- 💻 HTML5 | CSS3 | JavaScript | React
+- 📱 Responsive Web Design
+- 🛠️ CSS Frameworks (e.g., Bootstrap)
+- 🔄 Version Control (e.g., Git)
+- 🌐 Web Accessibility
+- 🌟 Cross-browser Compatibility
 
-🌟 **What I Bring:**
+#### 📈 GitHub Stats:
 
-- 🌱 **Eagerness to Learn**: Embracing the ever-evolving tech landscape.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ankitvars&show_icons=true&count_private=true&hide_border=true&title_color=6CD064&icon_color=6CD064&text_color=FFFFE0&bg_color=0d1117)
 
-- 👁️ **Attention to Detail**: Pixel-perfect design is my jam.
+#### 💡 Currently Exploring:
 
-- 🔍 **Problem-solving Mindset**: Puzzles and coding challenges? Bring 'em on!
+- 📘 Typescript: Adding robustness to my JavaScript wizardry.
+- ⚛️ Advanced React: Diving into the deep end of React for stunning UIs.
+- ⏭️ Next.js: Creating blazing-fast web apps.
+- 📱 React Native: Bringing web magic to the mobile world.
 
-- 💬 **Strong Communication Skills**: The secret sauce for seamless collaboration.
+#### 🤝 Open for Collaboration:
 
-💼 **Education:**
+I'm always up for a challenge! If you have an exciting project in mind, let's collaborate and bring it to life. Feel free to reach out.
 
-- 🎓 **Bachelor's in Chemical Engineering (2022)**: My diverse background brings unique perspectives to problem-solving.
+#### 📫 Contact Me:
 
-🔗 **Connect with Me:**
+- 📧 Email: vashneyankit011@gmail.com
+- [GitHub](https://github.com/ankitvars)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ankit-varshney1/)
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-ff69b4?style=for-the-badge&logo=GitHub)](https://ankitvars.github.io/Portfolio/)
-
-[![Leetcode](https://img.shields.io/badge/Leetcode-ff9900?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/ankit1802/)
-
-📚 **Currently Learning:**
-
-- 📘 **Typescript**: Adding a pinch of type safety to my JavaScript recipes.
-
-- ⚛️ **React JS (Advanced)**: Leveling up the React game.
-
-- ⏭️ **Next JS**: Exploring the future of web apps.
-
-- 📱 **React Native**: Mobile apps, here I come!
-
-📢 **Open for Collaboration:**
-
-- 💡 Got an exciting project? I'm all ears for frontend collaborations. Let's create some web magic!
-
-📫 **Contact:**
-
-- 📧 **Email**: vashneyankit011@gmail.com
-
-[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ankitvars)
-
-Ready to code, innovate, and create together! 🚀🌐👨‍💻
+Let's code, innovate, and create together! 🚀🌐👨‍💻
