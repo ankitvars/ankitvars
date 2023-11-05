@@ -5,7 +5,7 @@
 🚀 On a mission to code the future and create web experiences that make you say "wow!" 💻
 
 Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/ankit-varshney1/)
+- [LinkedIn](https://www.linkedin.com/in/ankitvars/)
 - [Portfolio](https://ankitvars.github.io/Portfolio/)
 - [Leetcode](https://leetcode.com/ankit1802/)
 
