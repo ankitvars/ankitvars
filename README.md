@@ -6,7 +6,7 @@
 
 ## Connect with me:
 - [LinkedIn](https://www.linkedin.com/in/ankitvars/)
-- [Portfolio](https://ankitvars.github.io/Portfolio/)
+- [Portfolio](https://ankits-next-portfolio.vercel.app)
 - [Leetcode](https://leetcode.com/ankit1802/)
 
 ## 🌟 Professional Profile:
