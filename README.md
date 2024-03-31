@@ -5,7 +5,7 @@
 🚀 Embarking on a journey to shape the digital future with web experiences that leave a lasting impact. 💻
 
 ## Connect with me:
-- [LinkedIn](https://www.linkedin.com/in/ankitvars/)
+- [LinkedIn](https://www.linkedin.com/in/ankit-varshney-7b0652301)
 - [Portfolio](https://ankits-next-portfolio.vercel.app)
 - [Leetcode](https://leetcode.com/ankit1802/)
 
@@ -45,5 +45,6 @@ I thrive on challenges! If you have an exciting project in mind, let's collabora
 
 - 📧 Email: vashneyankit011@gmail.com
 - [GitHub](https://github.com/ankitvars)
+- [Linkedin](https://www.linkedin.com/in/ankit-varshney-7b0652301)
 
 Let's code, innovate, and create together! 🚀🌐👨‍💻
