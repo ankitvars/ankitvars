@@ -20,12 +20,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ankitvars&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ankitvars&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-## 🏆GitHub Trophies
-![](https://github-trophies.vercel.app/?username=ankitvars&theme=matrix&no-frame=true&no-bg=true&margin-w=4)
-
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
 ## 🤝 Open to Collaborate:
 
 I thrive on challenges! If you have an exciting project in mind, let's collaborate and bring it to life. Feel free to reach out.
