@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ankit Varshney</h1>
-<h3 align="center">Frontend Developer | React.js • Next.js • TypeScript • Tailwind | Passionate about UI performance & DX</h3>
+<h3 align="center">Frontend Developer | React.js • Next.js • TypeScript • Tailwind | Passionate about UI performance & UX</h3>
 
 ---
 
