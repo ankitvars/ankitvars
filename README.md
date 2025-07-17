@@ -1,53 +1,50 @@
-<h1 align="center">Hi 👋, I'm Ankit Varshney</h1>
-<h3 align="center">Frontend Developer | React.js • Next.js • TypeScript • Tailwind | Passionate about UI performance & UX</h3>
+<h2>
+  <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30" alt="cool"/> नमस्ते (Namaste)🙏🏻, I'm Ankit Varshney! 
+  <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50" alt="wave"/>
+</h2>
 
----
+<!-- Changed the right-aligned image to a fresh coding animation -->
+<img align="right" src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="230" alt="coding"/>
 
-- 🚀 Currently building healthtech apps at **Cognizant** using **React.js**, **Next.js**, and **TypeScript**
-- 🧠 3+ years building scalable dashboards, e-commerce apps, and PWA platforms
-- 🔍 Passionate about **performance optimization**, **component-driven design**, and **AI-integrated UIs**
-- 🛠️ Recently launched: **[Papershapers EdTech Platform](https://ankits-portfolio.vercel.app/projects)** (AI-based paper generation)
-- 📫 Reach me at: [varshneyankit011@gmail.com](mailto:varshneyankit011@gmail.com)
-- 🌐 Portfolio: [ankits-portfolio.vercel.app](https://ankits-portfolio.vercel.app)
-
----
-
-### 🛠️ Tech Stack
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs)
-![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwindcss)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=ankitvars&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=ankitvars&theme=radical" />
+<p>
+  <em>
+    Frontend Developer @ <a href="https://www.cognizant.com/">Cognizant</a>  
+    <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30" alt="rocket"/>
+  </em>
 </p>
 
----
-
-### ⚡ Featured Projects
-
-- 🧾 [**Papershapers** – AI EdTech Platform](https://github.com/ankitvars/papershapers)
-- 💸 [**Fracto Pay** – Petty cash management with UPI](https://github.com/ankitvars/fracto-pay)
-- 🧠 [**Fracto OCR** – Invoice scanning with OpenAI](https://github.com/ankitvars/fracto-ocr)
-- 🍴 [**Deliveroo Clone** – React Native Mobile App](https://github.com/ankitvars/deliveroo-clone)
-- 🛍️ [**Amazon Clone** – React + Firebase](https://github.com/ankitvars/amazon-clone)
+[![LinkedIn](https://img.shields.io/badge/-Ankit%20Varshney-0077B5?style=flat-square&logo=linkedin&logoColor=white&link=https://linkedin.com/in/ankitvars)](https://linkedin.com/in/ankitvars)  
+[![GitHub Followers](https://img.shields.io/github/followers/ankitvars?label=Follow&style=social)](https://github.com/ankitvars)  
+[![Website](https://img.shields.io/badge/Website-000000?style=flat-square&logo=vercel&logoColor=white&link=https://ankitvars.vercel.app)](https://ankitvars.vercel.app/)  
+![](https://visitor-badge.glitch.me/badge?page_id=ankitvars.ankitvars)
 
 ---
 
-### 📣 Let’s Connect
+### 👨‍💻 A Snapshot of Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/ankitvars)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://ankits-portfolio.vercel.app/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:varshneyankit011@gmail.com)
+```javascript
+const ankit = {
+  pronouns: "he" | "him",
+  experience: "4 years",
+  role: "Frontend Engineer",
+  stack: {
+    frontEnd: ["React", "Next.js", "TypeScript", "TailwindCSS"],
+    backEnd: ["Node.js", "Express", "GraphQL", "Apollo"],
+    infra: ["Docker", "AWS (Lambda, S3, CloudFront)", "Vercel"],
+    databases: ["MongoDB", "PostgreSQL", "Redis"]
+  },
+  passions: [
+    "UI Performance",
+    "Accessible Design",
+    "Component-Driven Development",
+    "AI-Enhanced UIs"
+  ],
+  currentFocus: "Building HealthTech dashboards with blazing-fast load times",
+  funFact: "I once optimized a page from 3s to 300ms!"
+};
+```
 
 ---
+
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" alt="love"/>  
+<em><b>I love connecting with awesome people</b> – feel free to say <b>hi</b> anytime!</em> 😊  
