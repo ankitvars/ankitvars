@@ -5,7 +5,7 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=2E9EF7&center=true&vCenter=true&width=440&lines=Frontend+Engineer+%F0%9F%9A%80;4%2B+Years+Experience;Performance+Enthusiast;Building+Amazing+UIs" alt="Typing SVG" />
 
 <p align="center">
-  <a href="https://linkedin.com/in/ankit-varshney-47272438b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/ankit-varshney-47272438b"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="https://portfolio.ankitvars.dev"><img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
   <a href="https://github.com/ankitvars"><img src="https://img.shields.io/github/followers/ankitvars?label=Follow&style=for-the-badge&logo=github" alt="GitHub"/></a>
 </p>
